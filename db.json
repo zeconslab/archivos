@@ -7,17 +7,17 @@
         },
         {
             "id_seccion_informacion": 2,
-            "nombre_seccion": "nombre2",
-            "ruta_imagen_seccion": "sin iamgen"
+            "nombre_seccion": "Plantas",
+            "ruta_imagen_seccion": "Imagenes\\Seccion\\plantas.png"
         },
         {
             "id_seccion_informacion": 3,
-            "nombre_seccion": "nombre3",
+            "nombre_seccion": "Bioviversidad",
             "ruta_imagen_seccion": "Imagenes\\Seccion\\biodiversidad.jpg"
         },
         {
             "id_seccion_informacion": 4,
-            "nombre_seccion": "nombre4",
+            "nombre_seccion": "Polinizacion",
             "ruta_imagen_seccion": "Imagenes\\Seccion\\polinizacion.jpg"
         }
     ]
