@@ -7,17 +7,17 @@
         },
         {
             "id_seccion_informacion": 2,
-            "nombre_seccion": "Plantas",
+            "nombre_seccion": "nombre2",
             "ruta_imagen_seccion": "https://assets.stickpng.com/images/580b585b2edbce24c47b2627.png"
         },
         {
             "id_seccion_informacion": 3,
-            "nombre_seccion": "Biodiversidad",
+            "nombre_seccion": "nombre3",
             "ruta_imagen_seccion": "Imagenes\\Seccion\\biodiversidad.jpg"
         },
         {
             "id_seccion_informacion": 4,
-            "nombre_seccion": "Polinizacion",
+            "nombre_seccion": "nombre4",
             "ruta_imagen_seccion": "Imagenes\\Seccion\\polinizacion.jpg"
         }
     ]
