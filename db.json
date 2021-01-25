@@ -1,0 +1,24 @@
+{
+    "seccion_informacion": [
+        {
+            "id_seccion_informacion": 1,
+            "nombre_seccion": "Abejas",
+            "ruta_imagen_seccion": "Imagenes\\Seccion\\abeja.png"
+        },
+        {
+            "id_seccion_informacion": 2,
+            "nombre_seccion": "Plantas",
+            "ruta_imagen_seccion": "Imagenes\\Seccion\\planta.jpg"
+        },
+        {
+            "id_seccion_informacion": 3,
+            "nombre_seccion": "Biodiversidad",
+            "ruta_imagen_seccion": "Imagenes\\Seccion\\biodiversidad.jpg"
+        },
+        {
+            "id_seccion_informacion": 4,
+            "nombre_seccion": "Polinizacion",
+            "ruta_imagen_seccion": "Imagenes\\Seccion\\polinizacion.jpg"
+        }
+    ]
+}
