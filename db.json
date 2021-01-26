@@ -9,11 +9,6 @@
             "id_seccion_informacion": 2,
             "nombre_seccion": "Plantas",
             "ruta_imagen_seccion": "https://assets.stickpng.com/images/580b585b2edbce24c47b2627.png"
-        },
-        {
-            "id_seccion_informacion": 3,
-            "nombre_seccion": "Bioviversidad",
-            "ruta_imagen_seccion": "Imagenes\\Seccion\\biodiversidad.jpg"
         }
     ]
 }
