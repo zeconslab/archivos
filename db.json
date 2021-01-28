@@ -190,5 +190,17 @@
             "interaccion": "Sus flores son muy visitadas por escarabajos, mariposas, avispas y abejas.",
             "id_tipo_planta": 1
         }
+    ],
+    "tipo_planta": [
+        {
+            "id_tipo_planta": 1,
+            "nombre_tipo_planta": "Arbusto",
+            "ruta_imagen_tipo_planta": "Imagenes\\Tipo_Planta\\arbusto.JPG"
+        },
+        {
+            "id_tipo_planta": 2,
+            "nombre_tipo_planta": "Arbol",
+            "ruta_imagen_tipo_planta": "Imagenes\\Tipo_Planta\\arbol.JPG"
+        }
     ]
 }
