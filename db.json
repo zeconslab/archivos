@@ -203,4 +203,66 @@
             "ruta_imagen_tipo_planta": "Imagenes\\Tipo_Planta\\arbol.JPG"
         }
     ]
+    "imagen_planta": [
+        {
+            "id_imagen_planta": 1,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 6
+        },
+        {
+            "id_imagen_planta": 2,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite2.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 6
+        },
+        {
+            "id_imagen_planta": 3,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite3.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 6
+        },
+        {
+            "id_imagen_planta": 4,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\jinicuil.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 8
+        },
+        {
+            "id_imagen_planta": 5,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\moquillo.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 10
+        },
+        {
+            "id_imagen_planta": 6,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\moquillo2.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 10
+        },
+        {
+            "id_imagen_planta": 7,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\naranja.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 11
+        },
+        {
+            "id_imagen_planta": 8,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\pomarosa.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 12
+        },
+        {
+            "id_imagen_planta": 9,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\sangregado.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 13
+        },
+        {
+            "id_imagen_planta": 10,
+            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\sangregado2.JPG",
+            "creditos_imagen_planta": "INECOL",
+            "id_planta": 13
+        }
+    ]
 }
