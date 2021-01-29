@@ -239,30 +239,6 @@
             "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\moquillo2.JPG",
             "creditos_imagen_planta": "INECOL",
             "id_planta": 10
-        },
-        {
-            "id_imagen_planta": 7,
-            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\naranja.JPG",
-            "creditos_imagen_planta": "INECOL",
-            "id_planta": 11
-        },
-        {
-            "id_imagen_planta": 8,
-            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\pomarosa.JPG",
-            "creditos_imagen_planta": "INECOL",
-            "id_planta": 12
-        },
-        {
-            "id_imagen_planta": 9,
-            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\sangregado.JPG",
-            "creditos_imagen_planta": "INECOL",
-            "id_planta": 13
-        },
-        {
-            "id_imagen_planta": 10,
-            "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\sangregado2.JPG",
-            "creditos_imagen_planta": "INECOL",
-            "id_planta": 13
         }
     ]
 }
