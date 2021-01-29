@@ -70,7 +70,7 @@
             "nombre_tipo_planta": "Arbol",
             "ruta_imagen_tipo_planta": "Imagenes\\Tipo_Planta\\arbol.JPG"
         }
-    ]
+    ],
     "imagen_planta": [
         {
             "id_imagen_planta": 1,
