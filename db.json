@@ -77,21 +77,21 @@
             "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite.JPG",
             "ruta_imagen_planta_menu": "https://i.pinimg.com/originals/91/1e/cc/911ecc76e01cf2f31d6bbe728225123f.jpg",
             "creditos_imagen_planta": "INECOL",
-            "id_planta": 6
+            "id_planta": 1
         },
         {
             "id_imagen_planta": 2,
             "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite2.JPG",
             "ruta_imagen_planta_menu": "https://verdecora.es/blog/wp-content/uploads/2018/08/plantas-vivaces-flor-tardia.jpg",
             "creditos_imagen_planta": "INECOL",
-            "id_planta": 6
+            "id_planta": 2
         },
         {
             "id_imagen_planta": 3,
             "ruta_imagen_planta": "Imagenes\\FotografiasPlantas\\chalahuite3.JPG",
             "ruta_imagen_planta_menu": "https://i.pinimg.com/originals/91/1e/cc/911ecc76e01cf2f31d6bbe728225123f.jpg",
             "creditos_imagen_planta": "INECOL",
-            "id_planta": 6
+            "id_planta": 3
         }
     ]
 }
