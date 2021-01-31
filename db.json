@@ -45,18 +45,6 @@
             "origen": "Planta introducida, originaria de África.",
             "interaccion": "Sus flores son visitadas por meliponinos y por Apis mellifera. ",
             "id_tipo_planta": 2
-        },
-        {
-            "id_planta": 3,
-            "nombre_comun": "Capulin de mayo",
-            "familia": "Primulaceae",
-            "nombre_cientifico": "Ardisia compressa",
-            "rango_altura_planta": "2 - 7 m",
-            "rango_altura_hoja": "3 - 12 cm",
-            "rango_anchura_hoja": "1.4 - 6 cm",
-            "origen": "Planta nativa, se distribuye de México hasta Sudamérica.",
-            "interaccion": "Es una planta visitada por abejas sin aguijón y abejorros.",
-            "id_tipo_planta": 2
         }
     ],
     "tipo_planta": [
